@@ -24,7 +24,7 @@ ORDER BY Numero_musica;
 SELECT COUNT(*) AS TotalMusicas FROM Musicas;
 
 SELECT Nome_Musica FROM Musicas
-WHERE Artista = 'José Pedro';
+WHERE Artista = 'Tim Maia';
 
 SELECT Nome_cd FROM CDs
 WHERE LocalCompra = 'Submarino';
@@ -36,6 +36,3 @@ SELECT Nome_cd FROM CDs
 WHERE Album = 'Sim';
 
 SELECT AVG(ValorPago) AS MediaPrecos FROM CDs;
-
-
-
