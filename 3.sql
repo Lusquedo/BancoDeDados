@@ -27,7 +27,7 @@ SELECT Nome_Musica FROM Musicas
 WHERE Artista = 'Tim Maia';
 
 SELECT Nome_cd FROM CDs
-WHERE LocalCompra = 'Submarino';
+WHERE LocalCompra = 'Amazon';
 
 SELECT Nome_Musica FROM Musicas
 ORDER BY Nome_Musica;
