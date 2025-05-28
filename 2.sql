@@ -3,7 +3,7 @@ VALUES
 (1, 'Álbum A', '2025-05-10', 45.90, 'Americanas', 'Sim'),
 (2, 'Álbum B', '2025-04-25', 34.90, 'Mercado Livre', 'Não'),
 (3, 'Álbum C', '2025-03-30', 52.90, 'Amazon', 'Sim'),
-(4, 'Álbum D', '2025-02-15', 22.90, 'Submarino', 'Não'),
+(4, 'Álbum D', '2025-02-15', 22.90, 'eBay', 'Não'),
 (5, 'Álbum E', '2025-01-20', 65.90, 'Americanas', 'Sim');
 
 
