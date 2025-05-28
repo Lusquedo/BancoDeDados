@@ -18,10 +18,10 @@ VALUES
 (2, 2, 'Música B2', 'Artista 4', '0:2:30'),
 (2, 3, 'Música B3', 'Artista 5', '0:4:50'),
 (2, 4, 'Música B4', 'Artista 5', '0:6:40'),
-(3, 1, 'Música C1', 'Artista 6', '0:4:20'),
-(3, 2, 'Música C2', 'Artista 7', '0:4:50'),
-(3, 3, 'Música C3', 'Artista 6', '0:4:00'),
-(3, 4, 'Música C4', 'Artista 8', '0:3:30'),
-(4, 1, 'Música D1', 'Artista 9', '0:2:50'),
-(4, 2, 'Música D2', 'Artista 9', '0:2:40'),
-(5, 1, 'Música E1', 'Artista 10', '0:4:00');
+(3, 1, 'Música B5', 'Artista 6', '0:4:20'),
+(3, 2, 'Música C1', 'Artista 7', '0:4:50'),
+(3, 3, 'Música C2', 'Artista 6', '0:4:00'),
+(3, 4, 'Música C3', 'Artista 8', '0:3:30'),
+(4, 1, 'Música C4', 'Artista 9', '0:2:50'),
+(4, 2, 'Música C5', 'Artista 9', '0:2:40'),
+(5, 1, 'Música D1', 'Artista 10', '0:4:00');
