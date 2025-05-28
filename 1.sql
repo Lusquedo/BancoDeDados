@@ -1,5 +1,5 @@
-create database etec2;
-use etec2;
+create database etec;
+use etec;
 
 CREATE TABLE CDs (
     Codigo INT PRIMARY KEY,
